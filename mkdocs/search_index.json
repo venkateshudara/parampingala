@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "NARL - PARAMPINGALA Petascale Supercomputing Facility\n\n\n Petascale Computing Facility for Weather and Climate Modelling at\n     National Atmospheric Research Laboratory (NARL), \n           Gadanki, Andhra Pradesh, India. 517 112\n\n\n\nHPC Hardware Specifications\n\n\n\n\n\n\nCompute Nodes\n - The CPU only Compute Nodes are based on Intel FC2HAC16W3 with S9248WK2HAC Compute Module (2U modular system with 2 independent hot-plug nodes inside which share only the enclosure and the power supplies (therefore 1 unit of Intel FC2HAC16W3 with S9248WK2HAC will provide 2 nodes) - \n\n\nNumber of Systems \u2013 \n   98x Intel FC2HAC16W3 with S9248WK2HAC\n   Compute Module (196 Nodes)- Configuration of each Node -\n\u27a2 Dual Intel\u00ae Xeon\u00ae Platinum 9242 Processor (48C, 2.3G) \n\u27a2 768GB using 24 x 32GB modules of DDR4-2933 ECC RDIMM \n\u27a2 1x Intel\u00ae Omni-Path Host Fabric Interface Adapter 100 Series \n\u27a2 Remote Management Module for Out of Band Management\n\n\n\n\n\n\nMaster Nodes\n - \n\n\n\n\n\n\nNumber of Systems \u2013 2x Intel Server System R2208WFTZSR \n  Configuration of each Node - \n\u27a2 Dual Intel\u00ae Xeon\u00ae Gold 6240 Processor (24.75M Cache, 2.60 GHz) \n\u27a2 384GB using 12 x 32GB modules of DDR4-2933 ECC RDIMM \n\u27a2 2x 600GB SAS 10K HDD \n\u27a2 Shared storage Array with Redundant Controller populated \n   with 8x 600GB SAS 10K HDD \n\u27a2 DVD-R/W Drive \u27a2 SAS RAID Card\n\n\u27a2 1G Interface for Connectivity to Secondary Communication Network \n\u27a2 10G Interface for Storage Connectivity \n\u27a2 1x Intel\u00ae Omni-Path Host Fabric Interface Adapter 100 Series \n\u27a2 Remote Management Module for Out of Band Management \n\u27a2 Second Power Supply for Redundancy\n\n\n\n\n\n\nLogin/Boot Nodes\n -\n\n\n\n\n\n\nHigh Clock speed Nodes\n - .\n\n\n\n\n\n\nHigh Memory Nodes\n -\n\n\n\n\n\n\nGP-GPU Nodes\n -\n\n\n\n\n\n\nStorage\n -\n\n\n\n\n\n\nHPC Architecture",
+            "title": "Home"
+        },
+        {
+            "location": "/#narl-parampingala-petascale-supercomputing-facility",
+            "text": "Petascale Computing Facility for Weather and Climate Modelling at\n     National Atmospheric Research Laboratory (NARL), \n           Gadanki, Andhra Pradesh, India. 517 112",
+            "title": "NARL - PARAMPINGALA Petascale Supercomputing Facility"
+        },
+        {
+            "location": "/#hpc-hardware-specifications",
+            "text": "Compute Nodes  - The CPU only Compute Nodes are based on Intel FC2HAC16W3 with S9248WK2HAC Compute Module (2U modular system with 2 independent hot-plug nodes inside which share only the enclosure and the power supplies (therefore 1 unit of Intel FC2HAC16W3 with S9248WK2HAC will provide 2 nodes) -   Number of Systems \u2013 \n   98x Intel FC2HAC16W3 with S9248WK2HAC\n   Compute Module (196 Nodes)- Configuration of each Node -\n\u27a2 Dual Intel\u00ae Xeon\u00ae Platinum 9242 Processor (48C, 2.3G) \n\u27a2 768GB using 24 x 32GB modules of DDR4-2933 ECC RDIMM \n\u27a2 1x Intel\u00ae Omni-Path Host Fabric Interface Adapter 100 Series \n\u27a2 Remote Management Module for Out of Band Management    Master Nodes  -     Number of Systems \u2013 2x Intel Server System R2208WFTZSR \n  Configuration of each Node - \n\u27a2 Dual Intel\u00ae Xeon\u00ae Gold 6240 Processor (24.75M Cache, 2.60 GHz) \n\u27a2 384GB using 12 x 32GB modules of DDR4-2933 ECC RDIMM \n\u27a2 2x 600GB SAS 10K HDD \n\u27a2 Shared storage Array with Redundant Controller populated \n   with 8x 600GB SAS 10K HDD \n\u27a2 DVD-R/W Drive \u27a2 SAS RAID Card \n\u27a2 1G Interface for Connectivity to Secondary Communication Network \n\u27a2 10G Interface for Storage Connectivity \n\u27a2 1x Intel\u00ae Omni-Path Host Fabric Interface Adapter 100 Series \n\u27a2 Remote Management Module for Out of Band Management \n\u27a2 Second Power Supply for Redundancy    Login/Boot Nodes  -    High Clock speed Nodes  - .    High Memory Nodes  -    GP-GPU Nodes  -    Storage  -",
+            "title": "HPC Hardware Specifications"
+        },
+        {
+            "location": "/#hpc-architecture",
+            "text": "",
+            "title": "HPC Architecture"
+        },
+        {
+            "location": "/PARAMPINGALA-UserGuide/",
+            "text": "System User Guide\n\n\nSystem Developer Guide\n\n\nSystem Administartor Guide",
+            "title": "PARAMPINGALA UserGuide"
+        },
+        {
+            "location": "/PARAMPINGALA-UserGuide/#system-user-guide",
+            "text": "",
+            "title": "System User Guide"
+        },
+        {
+            "location": "/PARAMPINGALA-UserGuide/#system-developer-guide",
+            "text": "",
+            "title": "System Developer Guide"
+        },
+        {
+            "location": "/PARAMPINGALA-UserGuide/#system-administartor-guide",
+            "text": "",
+            "title": "System Administartor Guide"
+        },
+        {
+            "location": "/about/",
+            "text": "About\n\n\n\n\nName:",
+            "title": "About"
+        },
+        {
+            "location": "/about/#about",
+            "text": "Name:",
+            "title": "About"
+        }
+    ]
+}
